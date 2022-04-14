@@ -1,0 +1,5 @@
+{
+	"ip":"ADARSH8787.aternos.me",
+	"port": "46435",
+	"name": "afk NOOB"
+}
